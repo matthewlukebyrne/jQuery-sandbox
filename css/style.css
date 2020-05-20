@@ -20,3 +20,24 @@ header {
   padding: 10px;
 }
 
+/* ADD, REMOVE or TOGGLE a class for the object Jquery function example */
+.myClass {
+  color: blue;
+  background: black;
+}
+
+#box{
+  background: #333;
+  color: #fff;
+  width: 500px;
+  height: 90px;
+  padding: 40px;
+  text-align: center;
+}
+
+#box2 {
+  background: red;
+  width: 100px;
+  height: 100px;
+  position: relative;
+}
